@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package>
+  <name>pololu</name>
+  <version>1.0.0</version>
+  <description>Pololu interface</description>
+
+  <author email="guinardari@usp.br">Nardari</author>
+  <maintainer email="guinardari@usp.br">Nardari</maintainer>
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>std_msgs</build_depend>
+  <run_depend>rospy</run_depend>
+  <run_depend>roslaunch</run_depend>
+  <run_depend>std_msgs</run_depend>
+  
+</package>
